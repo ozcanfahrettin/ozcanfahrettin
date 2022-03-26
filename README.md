@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ozcanfahrettin
-- 👀 I’m interested in 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: ozcanfahrettinn@gmail.com
+- 🎓 Currently studying at Bogazici University Computer Engineering Department.
+- 🌱 I’m currently learning python, javascript and java.
+- 💞️ I'm open to any internship/work offers :)
+- 📫 How to reach me: fahreddin.ozcan@boun.edu.tr
 
 <!---
 ozcanfahrettin/ozcanfahrettin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
